@@ -137,7 +137,7 @@ This project is inspired by prior research on **informed population initializati
 
 ## Author
 
-**Milad Purahmad**
+**Milad PourAhmad**
 M.Sc. Applicant – Optimization & Algorithms
 
 ---
